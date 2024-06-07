@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341518588824",
+    "project_id": "motosafe-58aca",
+    "storage_bucket": "motosafe-58aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341518588824:android:0b6fee96a14ac7aace69ed",
+        "android_client_info": {
+          "package_name": "com.edwin.motosafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvadiZwvsGD_1a-yPpfisnXx36DQDxxns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
